@@ -6,6 +6,5 @@
 🐱‍💻 *Gamedev hobbyist, currently working on an unannounced project* </br>
 🎉 *Design and media advisor, hoster of (sometimes) funny events* </br>
 🚴‍♂️ *Part-time adventurer, checking things off my Impossible List* </br>
-</br>
 
-You can find me on every major social network as **/Denision** or **/DenisionSoft** </br>
+You can find me on every major social network as **/Denision** or **/DenisionSoft**
