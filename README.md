@@ -1,5 +1,5 @@
 ## Hi, welcome to my profile 🙋‍♂️
-<a><img src="https://media.giphy.com/media/yZJe5xhaKwXQ3ZJflj/giphy.gif" alt="CodeGif" align="right" width="290" height="199"></a>
+<a><img src="https://media.giphy.com/media/yZJe5xhaKwXQ3ZJflj/giphy.gif" alt="CodeGif" align="right" width="265" height="182"></a>
 
 🎓 *Computer Science student at [Electrotechnical University](https://etu.ru/en)*</br>
 🐱‍💻 *Gamedev hobbyist, currently working on an unannounced project* </br>
