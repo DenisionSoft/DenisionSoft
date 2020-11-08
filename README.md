@@ -1,5 +1,4 @@
 ## Hi, welcome to my profile 🙋‍♂️
-<a><img src="https://media.giphy.com/media/yZJe5xhaKwXQ3ZJflj/giphy.gif" alt="CodeGif" align="right" width="265" height="182"></a>
 
 **Here are a few things about me**</br>
 🎓 *Computer Science student at [Electrotechnical University](https://etu.ru/en)*</br>
@@ -8,3 +7,4 @@
 🚴‍♂️ *Part-time adventurer, checking things off my Impossible List* </br>
 
 You can find me on every major social network as **/Denision** or **/DenisionSoft**
+<a><img src="https://media.giphy.com/media/yZJe5xhaKwXQ3ZJflj/giphy.gif" alt="CodeGif" align="right" width="265" height="182"></a>
