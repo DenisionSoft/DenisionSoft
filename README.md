@@ -7,4 +7,4 @@
 🚴‍♂️ *Part-time adventurer, checking things off my Impossible List* </br>
 
 <a><img src="https://i.imgur.com/BPtdQwY.gif" alt="CodeGif" align="left" width="200" height="196" vspace="500"></a></br>
-<p align="right">You can find me on every major social network as **/Denision** or **/DenisionSoft**</p>
+<p align="right">You can find me on every major social network as <b>/Denision</b> or <b>/DenisionSoft</b></p>
