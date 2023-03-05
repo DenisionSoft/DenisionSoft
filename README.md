@@ -67,4 +67,3 @@ I'm open to contact and hire!
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisionsoft&theme=gotham&hide_border=true&count_private=true" alt="stats" />
 <img src="https://streak-stats.demolab.com?user=denisionsoft&theme=gotham&hide_border=true" alt="" />
 </div>
-<img src="" alt="" />
