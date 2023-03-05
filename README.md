@@ -64,6 +64,15 @@ I'm open to contact and hire!
 
 ## Profile Stats
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisionsoft&theme=gotham&hide_border=true&count_private=true" alt="stats" />
-<img src="https://streak-stats.demolab.com?user=denisionsoft&theme=gotham&hide_border=true" alt="" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=denisionsoft&theme=gotham&hide_border=true&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=denisionsoft&theme=graywhite&hide_border=true&count_private=true">
+  <img alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisionsoft&theme=gotham&hide_border=true&count_private=true">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=denisionsoft&theme=gotham&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=denisionsoft&theme=default&hide_border=true">
+  <img alt="stats" src="https://streak-stats.demolab.com?user=denisionsoft&theme=gotham&hide_border=true">
+</picture>
 </div>
