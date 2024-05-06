@@ -2,7 +2,7 @@
 
 ## About Me
 
-👋 I am a backend developer, mastering multiple technologies and pursuing Bachelor's degree in Information Systems and Technologies.</br>
+👋 I am a backend developer, mastering multiple technologies and pursuing a Bachelor's degree in Information Systems and Technologies.</br>
 
 🎓 *Computer Science student at [Electrotechnical University](https://etu.ru/en)*</br>
 🎉 *Design and media advisor, hoster of (sometimes) funny events* </br>
@@ -10,7 +10,7 @@
 🚴‍♂️ *Part-time adventurer, checking things off my Impossible List* </br>
 
 You can find me on every major social network as <b>/Denision</b> or <b>/DenisionSoft</b>.</br>
-I'm open to contact and hire!
+I'm open for contact and hire!
 
 <div align="left">
 <a href="https://etu.ru/en">
@@ -39,6 +39,11 @@ I'm open to contact and hire!
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="hibernate" />
+<img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="openapi" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" alt="gradle" />
+<img src="https://img.shields.io/badge/docker-1e63ee.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres" />
 <img src="https://img.shields.io/badge/QT-3ec34e?style=for-the-badge&logo=qt&logoColor=white" alt="qt" />
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
@@ -50,12 +55,16 @@ I'm open to contact and hire!
 <b>Tools</b> </br></br>
 <div align="left">
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="idea" />
+<img src="https://img.shields.io/badge/DataGrip-000000.svg?style=for-the-badge&logo=datagrip&logoColor=white" alt="datagrip" />
 <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="pycharm" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />
 <img src="https://img.shields.io/badge/Jupyter-f37726?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter" />
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="colab" />
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" alt="digitalocean" />
+<img src="https://img.shields.io/badge/Yandex_Cloud-5282FF.svg?style=for-the-badge&logo=yandexcloud&logoColor=white" alt="yandexcloud" />
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="bash" />
 <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="terminal" />
+<img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="obsidian" />
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="trello" />
 <img src="https://img.shields.io/badge/Mattermost-1f325c?style=for-the-badge&logo=mattermost&logoColor=white" alt="mattermost" />
 </div>
