@@ -46,6 +46,7 @@ I'm open for contact and hire!
 <img src="https://img.shields.io/badge/docker-1e63ee.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="rabbitmq" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres" />
+<img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="flyway" />
 <img src="https://img.shields.io/badge/S3-e15343?style=for-the-badge&logo=amazons3&logoColor=white" alt="s3" />
 <img src="https://img.shields.io/badge/QT-3ec34e?style=for-the-badge&logo=qt&logoColor=white" alt="qt" />
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
