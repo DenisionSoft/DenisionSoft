@@ -2,7 +2,7 @@
 
 ## About Me
 
-👋 I am a backend developer, mastering multiple technologies and pursuing a Bachelor's degree in Information Systems and Technologies.</br>
+👋 Backend Developer, B.Sc., practicing multiple technologies and pursuing a Master's degree in Information Systems and Technologies.</br>
 
 🎓 *Computer Science student at [Electrotechnical University](https://etu.ru/en)*</br>
 🎉 *Design and media advisor, hoster of (sometimes) funny events* </br>
