@@ -5,8 +5,8 @@
 👋 Backend Developer, B.Sc., practicing multiple technologies and pursuing a Master's degree in Information Systems and Technologies.</br>
 
 🎓 *Computer Science student at [Electrotechnical University](https://etu.ru/en)*</br>
+🎮 *COO at CYTECH, an esports club, curating Overwatch 2 tournaments* </br>
 🎉 *Design and media advisor, hoster of (sometimes) funny events* </br>
-🎮 *E-sports organizer at CYTECH, curating Overwatch 2 tournaments* </br>
 🚴‍♂️ *Part-time adventurer, checking things off my Impossible List* </br>
 
 You can find me on every major social network as <b>/Denision</b> or <b>/DenisionSoft</b>.</br>
@@ -23,6 +23,10 @@ I'm open for contact and hire!
 
 <a href="https://t.me/denisionsoft">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="tg" />
+</a>
+
+<a href="https://www.linkedin.com/in/denision/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA4UlEQVR4nO2WPQ4BQRiGZ4XOT6HRuYBGRUUlscEt9K6hcg4H0OmIqNxAtSuiFIWIsI9sMpLJNDbMrL99ki2+93s3T2aaXSES/g6gA2wwhw+4UcRh0TReFLEVxBPiPTAHjnGKD0BZ5lXgEpd4qe28uMQnoCbzHhDEJQ65AlteRDwhHspnJOedkk2ANTAAukAfWJgSOzLPynmldOtAQXs/BUytiu8ARW1u2T6xA8xkPlbykm1xRemdgbTMM7bFDa2bU3aBTXFT6+YT8VdetRHEJ4v9d/36uIbl4Te8/VCc8HPcAEWeg13wQBOQAAAAAElFTkSuQmCC" alt="linkedin" />
 </a>
 
 </div>
