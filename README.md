@@ -78,6 +78,7 @@ I'm open for contact and hire!
 <img src="https://img.shields.io/badge/S3-e15343?style=for-the-badge&logo=amazons3&logoColor=white" alt="s3" />
 <img src="https://img.shields.io/badge/Kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white" alt="kafka" />
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="rabbitmq" />
+<img src="https://img.shields.io/badge/ELK-005571.svg?style=for-the-badge&logo=elastic&logoColor=white" alt="elk" />
 </div>
 
 </br>
