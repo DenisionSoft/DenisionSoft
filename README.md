@@ -84,19 +84,36 @@ I'm open for contact and hire!
 </br>
 <b>Tools</b> </br></br>
 <div align="left">
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="idea" />
+
+<!-- Development block -->
 <img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=rider&logoColor=white" alt="rider" />
-<img src="https://img.shields.io/badge/DataGrip-000000.svg?style=for-the-badge&logo=datagrip&logoColor=white" alt="datagrip" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="idea" />
 <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="pycharm" />
+<img src="https://img.shields.io/badge/DataGrip-000000.svg?style=for-the-badge&logo=datagrip&logoColor=white" alt="datagrip" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABxElEQVRIS72Wuy9EQRTG9yISQkHlUaChoVR4lDq9TRQi0VBSEK1soUCi1FJREK/EKpSCWisSQaLgDyBcv28zdzO7Zta9u9YkX+b9feece2bmBqkKSxiGC1DMgWuwGgTBrU0ZlMsPsfaug3mLI6R9CjIISTBVlgDk9ezdARMlDDyXeGIByJvZuA/GYnh/l0gA8lZIT8BQDPLckpwAG2uo2onbk28ja7qZy4LeuOQ5ATa2UB+DYbAJlhB6t0lYM0D/DHR4yO8Z73HNSeCGiUFr8op2GpEH490o9RGQIa5yyOA0eJPBxQtcAlrzCqZALdgFDQ7mD8aWwQbGYGf45RPQh4tCVBAZOp+gzkH+aLy8jOa8AiYMjdR7YNwTBnv4gs4kVr8UWOPzwLJA4dgCMx4ReZMBK5ArHAWlpAfGi+oJoF69EJnTWb2P7DgHiliUpjrhSlN5WFxip+lvB20EZnlY9kHTRp1UEemqWCRLZF2+4GU/HV0VnZ4M818VJoMUijaInz0EuhC7mNNl1+db4xr/n+s6iUV40sT6A/D3D05kiHkyt+mnSxincCZ/Mi0RhXcN6K8iP0yj8ke/KMMkMAuU7j9+W74B+OHP2EGUursAAAAASUVORK5CYII=" alt="vscode" />
-<img src="https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" alt="digitalocean" />
-<img src="https://img.shields.io/badge/Yandex_Cloud-5282FF.svg?style=for-the-badge&logo=yandexcloud&logoColor=white" alt="yandexcloud" />
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="bash" />
 <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAbCAYAAACN1PRVAAAB9klEQVRIS92WP0gcQRSHb9WoAW1EW0UxGkFEhLRWFlqKlZAmRMVGjEVsJXZGGy0s0niJWCj+gUBs7JLOKopgo3L5IwQV5cTkIpqs30/2jmPc2YNz7woXPtx7M/e+fTNv53QiebycPLoi+ZW5rrtMdW3gJ/5FfAvq4IllFS6If4dv0GnJc0Z830F2zk25JdEh8U1ohCZLIn3/APagxzLnmnhCMjdg38KS3Sok2wiQ6aklrIQqy7xL4lqm04DqU7IPAbJQh8xl1JL+hSJ4FKrJW8b0PdOSrMNTUPdJGtplVjZA5lWohlfQG2aFpuw1yd97m63qnsMIlIRRnik7IekELIJe6BrogskwhH4N8oPE72AJYqCW18v6FkrvU6HfS62G2YUZmAc1jYQL0A5ZN42f7D8Jv8AsfIR/oOMqCq1QmG11pkyibU/0ib86GbRvL0HdmXVVekBTdkRsDNZAx089dMObNNFv7nWMqeKgq4xBkXpAU9bP4IrjOGecmS3cv4AhY+nm+DzOnFiQie/rlRmEhuQ8UzbKQNSbMOxVZS7dNPEpZD8zyPoYV45mm+wPA5+h1qPYJ+EOMTXOcYZl1A/pM6iwyRRPHsS2ZrhiTgIy7dlj5uhhC9JlX/mg/cnl/yNx8se0Zx3c6McxlzIdDPFcCu5s6cOV3QCB4rLbK8BhuwAAAABJRU5ErkJggg==" alt="windows-terminal" />
+</br>
+
+<!-- Collaboration block -->
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira" />
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="trello" />
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="confluence" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
+<img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" alt="miro" />
+<img src="https://img.shields.io/badge/Mattermost-1f325c?style=for-the-badge&logo=mattermost&logoColor=white" alt="mattermost" />
 <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="obsidian" />
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" />
-<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="trello" />
-<img src="https://img.shields.io/badge/Mattermost-1f325c?style=for-the-badge&logo=mattermost&logoColor=white" alt="mattermost" />
+</br>
+
+<!-- Infrastructure block -->
+<img src="https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=teamcity&logoColor=white" alt="teamcity" />
+<img src="https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white" alt="rancher" />
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" alt="digitalocean" />
+<img src="https://img.shields.io/badge/Yandex_Cloud-5282FF.svg?style=for-the-badge&logo=yandexcloud&logoColor=white" alt="yandexcloud" />
+
 </div>
 </br>
 
