@@ -124,9 +124,9 @@ I'm open for contact and hire!
 ## Profile Stats
 <div align="left">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=denisionsoft&theme=gotham&hide_border=true&count_private=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=denisionsoft&theme=graywhite&hide_border=true&count_private=true">
-  <img alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisionsoft&theme=gotham&hide_border=true&count_private=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=denisionsoft&theme=gotham&hide_border=true&count_private=true&langs_count=6">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=denisionsoft&theme=graywhite&hide_border=true&count_private=true&langs_count=6">
+  <img alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisionsoft&theme=gotham&hide_border=true&count_private=true&langs_count=6">
 </picture>
 
 <picture>
