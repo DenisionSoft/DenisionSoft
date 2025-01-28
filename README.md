@@ -10,7 +10,6 @@
 🚴‍♂️ *Part-time adventurer, checking things off my Impossible List* </br>
 
 You can find me on every major social network as <b>/Denision</b> or <b>/DenisionSoft</b>.</br>
-I'm open for contact and hire!
 
 <div align="left">
 <a href="https://etu.ru/en">
